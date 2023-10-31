@@ -9,8 +9,6 @@ body.my-login-page {
 }
 
 .my-login-page .brand {
-    width: 150px;
-    height: 20px;
     overflow: hidden;
     margin: 60px auto;
     position: relative;
