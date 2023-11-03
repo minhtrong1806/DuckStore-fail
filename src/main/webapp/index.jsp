@@ -139,7 +139,7 @@
 														class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti"
 														data-notify="0"> <i class="zmdi zmdi-favorite-outline"></i>
 												</a> <a
-														href="#"
+														href="my-account.jsp"
 														class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11"
 														data-notify="0"> <i class="zmdi zmdi-account-circle"></i>
 												</a>
@@ -193,7 +193,7 @@
 														class="flex-c-m p-lr-10 trans-04"> Login </a> <a
 														href="login.jsp"
 														class="flex-c-m p-lr-10 trans-04"> Logout </a> <a
-														href="#"
+														href="my-account.jsp"
 														class="flex-c-m p-lr-10 trans-04">Account</a>
 										</div>
 								</li>

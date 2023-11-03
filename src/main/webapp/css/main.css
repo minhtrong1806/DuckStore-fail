@@ -185,6 +185,22 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 
+.active {
+    background-color: #ffffff !important;
+    color: black !important;
+    border: none;
+}
+
+/* my-account */
+.my-account {
+    font-family: Poppins-Medium;
+}
+
+/* line */
+.line-b {
+    border-bottom: 2px solid black;
+}
+
 /*//////////////////////////////////////////////////////////////////
 [ Header ]*/
 
